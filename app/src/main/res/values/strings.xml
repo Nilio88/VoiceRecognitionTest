@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VoiceRecognitionTest</string>
+    <string name="press_me">Premi il bottone</string>
+    <string name="btnCaptureVoiceCiao_label">Riconosci ciao</string>
+    <string name="btnCaptureVoiceSalve_label">Riconosci salve</string>
+    <string name="btnCaptureVoiceBuongiorno_label">Riconosci buongiorno</string>
+    <string name="right">Esatto!</string>
+    <string name="wrong">Sbagliato!</string>
+    <string name="ciao_question">Dì la parola "Ciao"</string>
+    <string name="salve_question">Dì la parola "Salve"</string>
+    <string name="buongiorno_question">Dì la parola "Buongiorno"</string>
+
+    <!-- Stringhe per le CardView -->
+    <string name="g_exercises">Ga Ge Gi</string>
+
+</resources>

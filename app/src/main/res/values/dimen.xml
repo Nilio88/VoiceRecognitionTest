@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dimensioni per il GridLayout nell'Activity principale -->
+    <dimen name="exercises_grid_padding">10dp</dimen>
+
+    <!-- Dimensioni per le CardView -->
+    <dimen name="cardview_height">0dp</dimen>
+    <dimen name="cardview_width">0dp</dimen>
+    <dimen name="cardview_margin">10dp</dimen>
+    <dimen name="cardview_corner_radius">8dp</dimen>
+    <dimen name="linearLayout_margin">16dp</dimen>
+    <dimen name="card_text_size">18sp</dimen>
+    <dimen name="cardview_max_elevation">8dp</dimen>
+
+</resources>
